@@ -1,0 +1,6 @@
+@BoxDrive_HostAddress = http://localhost:5179
+
+GET {{BoxDrive_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
